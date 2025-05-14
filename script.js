@@ -1,1 +1,1 @@
-console.log("Ugodan vikend");
+console.log("Marijo");
